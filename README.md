@@ -1,1 +1,2 @@
+[![Board Status](https://dev.azure.com/hafnermichael/20929888-3fea-45dd-87cd-d86d51e7ecaa/ad17e012-c029-4f9a-894f-9100c7018595/_apis/work/boardbadge/cc80029b-6209-419e-ae72-08dd7a8a2f28)](https://dev.azure.com/hafnermichael/20929888-3fea-45dd-87cd-d86d51e7ecaa/_boards/board/t/ad17e012-c029-4f9a-894f-9100c7018595/Microsoft.RequirementCategory)
 # test-hello-world
